@@ -1,4 +1,4 @@
-# DU_Cybersecurity_Scripts
+# DU_Cybersecurity
 
 A collection of Ansible playbooks and Linux bash scripts.
 
